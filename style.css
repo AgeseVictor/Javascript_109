@@ -30,3 +30,9 @@ img{
     margin: 0 auto;
     align-items: center;
 }
+
+.code{
+    font-family: cursive;
+    font-size: 40px;
+    color: gray;
+}
