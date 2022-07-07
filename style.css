@@ -24,3 +24,7 @@ text-align: center;
 .m{
     margin-top: 200px;
 }
+.imf{
+    border: 10px solid gray;
+    padding: 20px;
+}
